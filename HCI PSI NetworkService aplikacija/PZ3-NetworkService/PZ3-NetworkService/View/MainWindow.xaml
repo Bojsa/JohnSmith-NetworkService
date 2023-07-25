@@ -1,0 +1,26 @@
+﻿<Window x:Class="PZ3_NetworkService.View.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+		xmlns:View="clr-namespace:PZ3_NetworkService.View"
+        xmlns:local="clr-namespace:PZ3_NetworkService"
+        mc:Ignorable="d"
+            Title="MainWindow" Height="600" Width="1200" WindowStartupLocation="CenterScreen">
+	<Grid Background="CadetBlue">
+		<TabControl Background="CadetBlue" HorizontalAlignment="Left" Margin="10,10,0,10.4" Width="1170">
+			<TabItem  Header="_Tab1">
+				<View:Tab1/>
+			</TabItem>
+			<TabItem Header="_Tab2">
+				<View:Tab2/>
+			</TabItem>
+			<TabItem Header="_Tab3">
+				<View:Tab3/>
+			</TabItem>
+
+		</TabControl>
+		<Button Command="{Binding ToogleToolTip}" Content="Toggle Tooltip" HorizontalAlignment="Left" Margin="1080,10,0,0" VerticalAlignment="Top" Width="100"/>
+
+	</Grid>
+</Window>

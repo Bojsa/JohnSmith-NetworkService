@@ -1,0 +1,2 @@
+Pre pokretanja staviti na radnu povrsinu zbog putanja.
+Ima "nedostataka" u zadatku u vidu precica iako to nisam trebao da radim. Takodje graf treba da se refresuje u realnom vremenu da bi iscrtavanje bilo konstantno. 

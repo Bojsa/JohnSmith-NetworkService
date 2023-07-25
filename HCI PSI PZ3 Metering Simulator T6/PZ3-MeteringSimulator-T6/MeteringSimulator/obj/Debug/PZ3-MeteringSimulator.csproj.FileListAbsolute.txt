@@ -1,0 +1,29 @@
+C:\Users\Stefan\Documents\HCI PZ3\Nebojsa Vasic\HCI PSI PZ3 Metering Simulator T6\PZ3-MeteringSimulator-T6\MeteringSimulator\bin\Debug\MeteringSimulator.exe.config
+C:\Users\Stefan\Documents\HCI PZ3\Nebojsa Vasic\HCI PSI PZ3 Metering Simulator T6\PZ3-MeteringSimulator-T6\MeteringSimulator\bin\Debug\MeteringSimulator.exe
+C:\Users\Stefan\Documents\HCI PZ3\Nebojsa Vasic\HCI PSI PZ3 Metering Simulator T6\PZ3-MeteringSimulator-T6\MeteringSimulator\bin\Debug\MeteringSimulator.pdb
+C:\Users\Stefan\Documents\HCI PZ3\Nebojsa Vasic\HCI PSI PZ3 Metering Simulator T6\PZ3-MeteringSimulator-T6\MeteringSimulator\obj\Debug\PZ3-MeteringSimulator.csprojAssemblyReference.cache
+C:\Users\Stefan\Documents\HCI PZ3\Nebojsa Vasic\HCI PSI PZ3 Metering Simulator T6\PZ3-MeteringSimulator-T6\MeteringSimulator\obj\Debug\MainWindow.g.cs
+C:\Users\Stefan\Documents\HCI PZ3\Nebojsa Vasic\HCI PSI PZ3 Metering Simulator T6\PZ3-MeteringSimulator-T6\MeteringSimulator\obj\Debug\App.g.cs
+C:\Users\Stefan\Documents\HCI PZ3\Nebojsa Vasic\HCI PSI PZ3 Metering Simulator T6\PZ3-MeteringSimulator-T6\MeteringSimulator\obj\Debug\MeteringSimulator_MarkupCompile.cache
+C:\Users\Stefan\Documents\HCI PZ3\Nebojsa Vasic\HCI PSI PZ3 Metering Simulator T6\PZ3-MeteringSimulator-T6\MeteringSimulator\obj\Debug\MeteringSimulator_MarkupCompile.lref
+C:\Users\Stefan\Documents\HCI PZ3\Nebojsa Vasic\HCI PSI PZ3 Metering Simulator T6\PZ3-MeteringSimulator-T6\MeteringSimulator\obj\Debug\MainWindow.baml
+C:\Users\Stefan\Documents\HCI PZ3\Nebojsa Vasic\HCI PSI PZ3 Metering Simulator T6\PZ3-MeteringSimulator-T6\MeteringSimulator\obj\Debug\MeteringSimulator.g.resources
+C:\Users\Stefan\Documents\HCI PZ3\Nebojsa Vasic\HCI PSI PZ3 Metering Simulator T6\PZ3-MeteringSimulator-T6\MeteringSimulator\obj\Debug\MeteringSimulator.Properties.Resources.resources
+C:\Users\Stefan\Documents\HCI PZ3\Nebojsa Vasic\HCI PSI PZ3 Metering Simulator T6\PZ3-MeteringSimulator-T6\MeteringSimulator\obj\Debug\PZ3-MeteringSimulator.csproj.GenerateResource.cache
+C:\Users\Stefan\Documents\HCI PZ3\Nebojsa Vasic\HCI PSI PZ3 Metering Simulator T6\PZ3-MeteringSimulator-T6\MeteringSimulator\obj\Debug\MeteringSimulator.exe
+C:\Users\Stefan\Documents\HCI PZ3\Nebojsa Vasic\HCI PSI PZ3 Metering Simulator T6\PZ3-MeteringSimulator-T6\MeteringSimulator\obj\Debug\MeteringSimulator.pdb
+C:\Users\Nebojsa Vasic\Desktop\John Smith - Metering Simulator\Nebojsa Vasic\HCI PSI PZ3 Metering Simulator T6\PZ3-MeteringSimulator-T6\MeteringSimulator\bin\Debug\MeteringSimulator.exe.config
+C:\Users\Nebojsa Vasic\Desktop\John Smith - Metering Simulator\Nebojsa Vasic\HCI PSI PZ3 Metering Simulator T6\PZ3-MeteringSimulator-T6\MeteringSimulator\bin\Debug\MeteringSimulator.exe
+C:\Users\Nebojsa Vasic\Desktop\John Smith - Metering Simulator\Nebojsa Vasic\HCI PSI PZ3 Metering Simulator T6\PZ3-MeteringSimulator-T6\MeteringSimulator\bin\Debug\MeteringSimulator.pdb
+C:\Users\Nebojsa Vasic\Desktop\John Smith - Metering Simulator\Nebojsa Vasic\HCI PSI PZ3 Metering Simulator T6\PZ3-MeteringSimulator-T6\MeteringSimulator\obj\Debug\PZ3-MeteringSimulator.csproj.AssemblyReference.cache
+C:\Users\Nebojsa Vasic\Desktop\John Smith - Metering Simulator\Nebojsa Vasic\HCI PSI PZ3 Metering Simulator T6\PZ3-MeteringSimulator-T6\MeteringSimulator\obj\Debug\MainWindow.g.cs
+C:\Users\Nebojsa Vasic\Desktop\John Smith - Metering Simulator\Nebojsa Vasic\HCI PSI PZ3 Metering Simulator T6\PZ3-MeteringSimulator-T6\MeteringSimulator\obj\Debug\App.g.cs
+C:\Users\Nebojsa Vasic\Desktop\John Smith - Metering Simulator\Nebojsa Vasic\HCI PSI PZ3 Metering Simulator T6\PZ3-MeteringSimulator-T6\MeteringSimulator\obj\Debug\MeteringSimulator_MarkupCompile.cache
+C:\Users\Nebojsa Vasic\Desktop\John Smith - Metering Simulator\Nebojsa Vasic\HCI PSI PZ3 Metering Simulator T6\PZ3-MeteringSimulator-T6\MeteringSimulator\obj\Debug\MeteringSimulator_MarkupCompile.lref
+C:\Users\Nebojsa Vasic\Desktop\John Smith - Metering Simulator\Nebojsa Vasic\HCI PSI PZ3 Metering Simulator T6\PZ3-MeteringSimulator-T6\MeteringSimulator\obj\Debug\MainWindow.baml
+C:\Users\Nebojsa Vasic\Desktop\John Smith - Metering Simulator\Nebojsa Vasic\HCI PSI PZ3 Metering Simulator T6\PZ3-MeteringSimulator-T6\MeteringSimulator\obj\Debug\MeteringSimulator.g.resources
+C:\Users\Nebojsa Vasic\Desktop\John Smith - Metering Simulator\Nebojsa Vasic\HCI PSI PZ3 Metering Simulator T6\PZ3-MeteringSimulator-T6\MeteringSimulator\obj\Debug\MeteringSimulator.Properties.Resources.resources
+C:\Users\Nebojsa Vasic\Desktop\John Smith - Metering Simulator\Nebojsa Vasic\HCI PSI PZ3 Metering Simulator T6\PZ3-MeteringSimulator-T6\MeteringSimulator\obj\Debug\PZ3-MeteringSimulator.csproj.GenerateResource.cache
+C:\Users\Nebojsa Vasic\Desktop\John Smith - Metering Simulator\Nebojsa Vasic\HCI PSI PZ3 Metering Simulator T6\PZ3-MeteringSimulator-T6\MeteringSimulator\obj\Debug\PZ3-MeteringSimulator.csproj.CoreCompileInputs.cache
+C:\Users\Nebojsa Vasic\Desktop\John Smith - Metering Simulator\Nebojsa Vasic\HCI PSI PZ3 Metering Simulator T6\PZ3-MeteringSimulator-T6\MeteringSimulator\obj\Debug\MeteringSimulator.exe
+C:\Users\Nebojsa Vasic\Desktop\John Smith - Metering Simulator\Nebojsa Vasic\HCI PSI PZ3 Metering Simulator T6\PZ3-MeteringSimulator-T6\MeteringSimulator\obj\Debug\MeteringSimulator.pdb

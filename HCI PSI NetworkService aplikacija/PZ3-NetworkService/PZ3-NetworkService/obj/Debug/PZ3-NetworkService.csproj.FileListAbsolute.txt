@@ -1,0 +1,134 @@
+C:\Users\Stefan\Documents\HCI PZ3\Nebojsa Vasic\HCI PSI NetworkService aplikacija\PZ3-NetworkService\PZ3-NetworkService\obj\Debug\PZ3-NetworkService.csprojAssemblyReference.cache
+C:\Users\Stefan\Documents\HCI PZ3\Nebojsa Vasic\HCI PSI NetworkService aplikacija\PZ3-NetworkService\PZ3-NetworkService\obj\Debug\View\Tab1.g.cs
+C:\Users\Stefan\Documents\HCI PZ3\Nebojsa Vasic\HCI PSI NetworkService aplikacija\PZ3-NetworkService\PZ3-NetworkService\obj\Debug\View\Tab2.g.cs
+C:\Users\Stefan\Documents\HCI PZ3\Nebojsa Vasic\HCI PSI NetworkService aplikacija\PZ3-NetworkService\PZ3-NetworkService\obj\Debug\View\Tab3.g.cs
+C:\Users\Stefan\Documents\HCI PZ3\Nebojsa Vasic\HCI PSI NetworkService aplikacija\PZ3-NetworkService\PZ3-NetworkService\obj\Debug\App.g.cs
+C:\Users\Stefan\Documents\HCI PZ3\Nebojsa Vasic\HCI PSI NetworkService aplikacija\PZ3-NetworkService\PZ3-NetworkService\obj\Debug\PZ3-NetworkService_MarkupCompile.cache
+C:\Users\Stefan\Documents\HCI PZ3\Nebojsa Vasic\HCI PSI NetworkService aplikacija\PZ3-NetworkService\PZ3-NetworkService\obj\Debug\PZ3-NetworkService_MarkupCompile.lref
+C:\Users\Stefan\Documents\HCI PZ3\Nebojsa Vasic\HCI PSI NetworkService aplikacija\PZ3-NetworkService\PZ3-NetworkService\bin\Debug\PZ3-NetworkService.exe.config
+C:\Users\Stefan\Documents\HCI PZ3\Nebojsa Vasic\HCI PSI NetworkService aplikacija\PZ3-NetworkService\PZ3-NetworkService\bin\Debug\PZ3-NetworkService.exe
+C:\Users\Stefan\Documents\HCI PZ3\Nebojsa Vasic\HCI PSI NetworkService aplikacija\PZ3-NetworkService\PZ3-NetworkService\bin\Debug\PZ3-NetworkService.pdb
+C:\Users\Stefan\Documents\HCI PZ3\Nebojsa Vasic\HCI PSI NetworkService aplikacija\PZ3-NetworkService\PZ3-NetworkService\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Stefan\Documents\HCI PZ3\Nebojsa Vasic\HCI PSI NetworkService aplikacija\PZ3-NetworkService\PZ3-NetworkService\obj\Debug\View\Tab1.baml
+C:\Users\Stefan\Documents\HCI PZ3\Nebojsa Vasic\HCI PSI NetworkService aplikacija\PZ3-NetworkService\PZ3-NetworkService\obj\Debug\View\Tab2.baml
+C:\Users\Stefan\Documents\HCI PZ3\Nebojsa Vasic\HCI PSI NetworkService aplikacija\PZ3-NetworkService\PZ3-NetworkService\obj\Debug\View\Tab3.baml
+C:\Users\Stefan\Documents\HCI PZ3\Nebojsa Vasic\HCI PSI NetworkService aplikacija\PZ3-NetworkService\PZ3-NetworkService\obj\Debug\PZ3-NetworkService.g.resources
+C:\Users\Stefan\Documents\HCI PZ3\Nebojsa Vasic\HCI PSI NetworkService aplikacija\PZ3-NetworkService\PZ3-NetworkService\obj\Debug\PZ3_NetworkService.Properties.Resources.resources
+C:\Users\Stefan\Documents\HCI PZ3\Nebojsa Vasic\HCI PSI NetworkService aplikacija\PZ3-NetworkService\PZ3-NetworkService\obj\Debug\PZ3-NetworkService.csproj.GenerateResource.cache
+C:\Users\Stefan\Documents\HCI PZ3\Nebojsa Vasic\HCI PSI NetworkService aplikacija\PZ3-NetworkService\PZ3-NetworkService\obj\Debug\PZ3-NetworkService.exe
+C:\Users\Stefan\Documents\HCI PZ3\Nebojsa Vasic\HCI PSI NetworkService aplikacija\PZ3-NetworkService\PZ3-NetworkService\obj\Debug\PZ3-NetworkService.pdb
+C:\Users\Stefan\Documents\HCI PZ3\Nebojsa Vasic\HCI PSI NetworkService aplikacija\PZ3-NetworkService\PZ3-NetworkService\obj\Debug\View\MainWindow.g.cs
+C:\Users\Stefan\Documents\HCI PZ3\Nebojsa Vasic\HCI PSI NetworkService aplikacija\PZ3-NetworkService\PZ3-NetworkService\bin\Debug\CommonServiceLocator.dll
+C:\Users\Stefan\Documents\HCI PZ3\Nebojsa Vasic\HCI PSI NetworkService aplikacija\PZ3-NetworkService\PZ3-NetworkService\bin\Debug\GalaSoft.MvvmLight.dll
+C:\Users\Stefan\Documents\HCI PZ3\Nebojsa Vasic\HCI PSI NetworkService aplikacija\PZ3-NetworkService\PZ3-NetworkService\bin\Debug\GalaSoft.MvvmLight.Extras.dll
+C:\Users\Stefan\Documents\HCI PZ3\Nebojsa Vasic\HCI PSI NetworkService aplikacija\PZ3-NetworkService\PZ3-NetworkService\bin\Debug\GalaSoft.MvvmLight.Platform.dll
+C:\Users\Stefan\Documents\HCI PZ3\Nebojsa Vasic\HCI PSI NetworkService aplikacija\PZ3-NetworkService\PZ3-NetworkService\bin\Debug\System.Windows.Interactivity.dll
+C:\Users\Stefan\Documents\HCI PZ3\Nebojsa Vasic\HCI PSI NetworkService aplikacija\PZ3-NetworkService\PZ3-NetworkService\bin\Debug\GalaSoft.MvvmLight.pdb
+C:\Users\Stefan\Documents\HCI PZ3\Nebojsa Vasic\HCI PSI NetworkService aplikacija\PZ3-NetworkService\PZ3-NetworkService\bin\Debug\GalaSoft.MvvmLight.xml
+C:\Users\Stefan\Documents\HCI PZ3\Nebojsa Vasic\HCI PSI NetworkService aplikacija\PZ3-NetworkService\PZ3-NetworkService\bin\Debug\GalaSoft.MvvmLight.Extras.pdb
+C:\Users\Stefan\Documents\HCI PZ3\Nebojsa Vasic\HCI PSI NetworkService aplikacija\PZ3-NetworkService\PZ3-NetworkService\bin\Debug\GalaSoft.MvvmLight.Extras.xml
+C:\Users\Stefan\Documents\HCI PZ3\Nebojsa Vasic\HCI PSI NetworkService aplikacija\PZ3-NetworkService\PZ3-NetworkService\bin\Debug\GalaSoft.MvvmLight.Platform.pdb
+C:\Users\Stefan\Documents\HCI PZ3\Nebojsa Vasic\HCI PSI NetworkService aplikacija\PZ3-NetworkService\PZ3-NetworkService\bin\Debug\GalaSoft.MvvmLight.Platform.xml
+C:\Users\Stefan\Documents\HCI PZ3\Nebojsa Vasic\HCI PSI NetworkService aplikacija\PZ3-NetworkService\PZ3-NetworkService\obj\Debug\View\MainWindow.baml
+C:\Users\Stefan\Documents\HCI PZ3\Nebojsa Vasic\HCI PSI NetworkService aplikacija\PZ3-NetworkService\PZ3-NetworkService\obj\Debug\PZ3-NetworkService.csproj.CopyComplete
+C:\Users\Bojsa\Desktop\Nebojsa Vasic\HCI PSI NetworkService aplikacija\PZ3-NetworkService\PZ3-NetworkService\bin\Debug\PZ3-NetworkService.exe.config
+C:\Users\Bojsa\Desktop\Nebojsa Vasic\HCI PSI NetworkService aplikacija\PZ3-NetworkService\PZ3-NetworkService\bin\Debug\PZ3-NetworkService.exe
+C:\Users\Bojsa\Desktop\Nebojsa Vasic\HCI PSI NetworkService aplikacija\PZ3-NetworkService\PZ3-NetworkService\bin\Debug\PZ3-NetworkService.pdb
+C:\Users\Bojsa\Desktop\Nebojsa Vasic\HCI PSI NetworkService aplikacija\PZ3-NetworkService\PZ3-NetworkService\bin\Debug\CommonServiceLocator.dll
+C:\Users\Bojsa\Desktop\Nebojsa Vasic\HCI PSI NetworkService aplikacija\PZ3-NetworkService\PZ3-NetworkService\bin\Debug\GalaSoft.MvvmLight.dll
+C:\Users\Bojsa\Desktop\Nebojsa Vasic\HCI PSI NetworkService aplikacija\PZ3-NetworkService\PZ3-NetworkService\bin\Debug\GalaSoft.MvvmLight.Extras.dll
+C:\Users\Bojsa\Desktop\Nebojsa Vasic\HCI PSI NetworkService aplikacija\PZ3-NetworkService\PZ3-NetworkService\bin\Debug\GalaSoft.MvvmLight.Platform.dll
+C:\Users\Bojsa\Desktop\Nebojsa Vasic\HCI PSI NetworkService aplikacija\PZ3-NetworkService\PZ3-NetworkService\bin\Debug\System.Windows.Interactivity.dll
+C:\Users\Bojsa\Desktop\Nebojsa Vasic\HCI PSI NetworkService aplikacija\PZ3-NetworkService\PZ3-NetworkService\bin\Debug\GalaSoft.MvvmLight.pdb
+C:\Users\Bojsa\Desktop\Nebojsa Vasic\HCI PSI NetworkService aplikacija\PZ3-NetworkService\PZ3-NetworkService\bin\Debug\GalaSoft.MvvmLight.xml
+C:\Users\Bojsa\Desktop\Nebojsa Vasic\HCI PSI NetworkService aplikacija\PZ3-NetworkService\PZ3-NetworkService\bin\Debug\GalaSoft.MvvmLight.Extras.pdb
+C:\Users\Bojsa\Desktop\Nebojsa Vasic\HCI PSI NetworkService aplikacija\PZ3-NetworkService\PZ3-NetworkService\bin\Debug\GalaSoft.MvvmLight.Extras.xml
+C:\Users\Bojsa\Desktop\Nebojsa Vasic\HCI PSI NetworkService aplikacija\PZ3-NetworkService\PZ3-NetworkService\bin\Debug\GalaSoft.MvvmLight.Platform.pdb
+C:\Users\Bojsa\Desktop\Nebojsa Vasic\HCI PSI NetworkService aplikacija\PZ3-NetworkService\PZ3-NetworkService\bin\Debug\GalaSoft.MvvmLight.Platform.xml
+C:\Users\Bojsa\Desktop\Nebojsa Vasic\HCI PSI NetworkService aplikacija\PZ3-NetworkService\PZ3-NetworkService\obj\Debug\PZ3-NetworkService.csprojAssemblyReference.cache
+C:\Users\Bojsa\Desktop\Nebojsa Vasic\HCI PSI NetworkService aplikacija\PZ3-NetworkService\PZ3-NetworkService\obj\Debug\View\MainWindow.g.cs
+C:\Users\Bojsa\Desktop\Nebojsa Vasic\HCI PSI NetworkService aplikacija\PZ3-NetworkService\PZ3-NetworkService\obj\Debug\View\Tab1.g.cs
+C:\Users\Bojsa\Desktop\Nebojsa Vasic\HCI PSI NetworkService aplikacija\PZ3-NetworkService\PZ3-NetworkService\obj\Debug\View\Tab2.g.cs
+C:\Users\Bojsa\Desktop\Nebojsa Vasic\HCI PSI NetworkService aplikacija\PZ3-NetworkService\PZ3-NetworkService\obj\Debug\View\Tab3.g.cs
+C:\Users\Bojsa\Desktop\Nebojsa Vasic\HCI PSI NetworkService aplikacija\PZ3-NetworkService\PZ3-NetworkService\obj\Debug\App.g.cs
+C:\Users\Bojsa\Desktop\Nebojsa Vasic\HCI PSI NetworkService aplikacija\PZ3-NetworkService\PZ3-NetworkService\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Bojsa\Desktop\Nebojsa Vasic\HCI PSI NetworkService aplikacija\PZ3-NetworkService\PZ3-NetworkService\obj\Debug\PZ3-NetworkService_MarkupCompile.cache
+C:\Users\Bojsa\Desktop\Nebojsa Vasic\HCI PSI NetworkService aplikacija\PZ3-NetworkService\PZ3-NetworkService\obj\Debug\PZ3-NetworkService_MarkupCompile.lref
+C:\Users\Bojsa\Desktop\Nebojsa Vasic\HCI PSI NetworkService aplikacija\PZ3-NetworkService\PZ3-NetworkService\obj\Debug\View\MainWindow.baml
+C:\Users\Bojsa\Desktop\Nebojsa Vasic\HCI PSI NetworkService aplikacija\PZ3-NetworkService\PZ3-NetworkService\obj\Debug\View\Tab1.baml
+C:\Users\Bojsa\Desktop\Nebojsa Vasic\HCI PSI NetworkService aplikacija\PZ3-NetworkService\PZ3-NetworkService\obj\Debug\View\Tab2.baml
+C:\Users\Bojsa\Desktop\Nebojsa Vasic\HCI PSI NetworkService aplikacija\PZ3-NetworkService\PZ3-NetworkService\obj\Debug\View\Tab3.baml
+C:\Users\Bojsa\Desktop\Nebojsa Vasic\HCI PSI NetworkService aplikacija\PZ3-NetworkService\PZ3-NetworkService\obj\Debug\PZ3-NetworkService.g.resources
+C:\Users\Bojsa\Desktop\Nebojsa Vasic\HCI PSI NetworkService aplikacija\PZ3-NetworkService\PZ3-NetworkService\obj\Debug\PZ3_NetworkService.Properties.Resources.resources
+C:\Users\Bojsa\Desktop\Nebojsa Vasic\HCI PSI NetworkService aplikacija\PZ3-NetworkService\PZ3-NetworkService\obj\Debug\PZ3-NetworkService.csproj.GenerateResource.cache
+C:\Users\Bojsa\Desktop\Nebojsa Vasic\HCI PSI NetworkService aplikacija\PZ3-NetworkService\PZ3-NetworkService\obj\Debug\PZ3-NetworkService.csproj.CopyComplete
+C:\Users\Bojsa\Desktop\Nebojsa Vasic\HCI PSI NetworkService aplikacija\PZ3-NetworkService\PZ3-NetworkService\obj\Debug\PZ3-NetworkService.exe
+C:\Users\Bojsa\Desktop\Nebojsa Vasic\HCI PSI NetworkService aplikacija\PZ3-NetworkService\PZ3-NetworkService\obj\Debug\PZ3-NetworkService.pdb
+C:\Users\Nebojsa Vasic\Desktop\John Smith PZ3\Nebojsa Vasic\HCI PSI NetworkService aplikacija\PZ3-NetworkService\PZ3-NetworkService\bin\Debug\PZ3-NetworkService.exe.config
+C:\Users\Nebojsa Vasic\Desktop\John Smith PZ3\Nebojsa Vasic\HCI PSI NetworkService aplikacija\PZ3-NetworkService\PZ3-NetworkService\bin\Debug\PZ3-NetworkService.exe
+C:\Users\Nebojsa Vasic\Desktop\John Smith PZ3\Nebojsa Vasic\HCI PSI NetworkService aplikacija\PZ3-NetworkService\PZ3-NetworkService\bin\Debug\PZ3-NetworkService.pdb
+C:\Users\Nebojsa Vasic\Desktop\John Smith PZ3\Nebojsa Vasic\HCI PSI NetworkService aplikacija\PZ3-NetworkService\PZ3-NetworkService\bin\Debug\CommonServiceLocator.dll
+C:\Users\Nebojsa Vasic\Desktop\John Smith PZ3\Nebojsa Vasic\HCI PSI NetworkService aplikacija\PZ3-NetworkService\PZ3-NetworkService\bin\Debug\GalaSoft.MvvmLight.dll
+C:\Users\Nebojsa Vasic\Desktop\John Smith PZ3\Nebojsa Vasic\HCI PSI NetworkService aplikacija\PZ3-NetworkService\PZ3-NetworkService\bin\Debug\GalaSoft.MvvmLight.Extras.dll
+C:\Users\Nebojsa Vasic\Desktop\John Smith PZ3\Nebojsa Vasic\HCI PSI NetworkService aplikacija\PZ3-NetworkService\PZ3-NetworkService\bin\Debug\GalaSoft.MvvmLight.Platform.dll
+C:\Users\Nebojsa Vasic\Desktop\John Smith PZ3\Nebojsa Vasic\HCI PSI NetworkService aplikacija\PZ3-NetworkService\PZ3-NetworkService\bin\Debug\System.Windows.Interactivity.dll
+C:\Users\Nebojsa Vasic\Desktop\John Smith PZ3\Nebojsa Vasic\HCI PSI NetworkService aplikacija\PZ3-NetworkService\PZ3-NetworkService\bin\Debug\GalaSoft.MvvmLight.pdb
+C:\Users\Nebojsa Vasic\Desktop\John Smith PZ3\Nebojsa Vasic\HCI PSI NetworkService aplikacija\PZ3-NetworkService\PZ3-NetworkService\bin\Debug\GalaSoft.MvvmLight.xml
+C:\Users\Nebojsa Vasic\Desktop\John Smith PZ3\Nebojsa Vasic\HCI PSI NetworkService aplikacija\PZ3-NetworkService\PZ3-NetworkService\bin\Debug\GalaSoft.MvvmLight.Extras.pdb
+C:\Users\Nebojsa Vasic\Desktop\John Smith PZ3\Nebojsa Vasic\HCI PSI NetworkService aplikacija\PZ3-NetworkService\PZ3-NetworkService\bin\Debug\GalaSoft.MvvmLight.Extras.xml
+C:\Users\Nebojsa Vasic\Desktop\John Smith PZ3\Nebojsa Vasic\HCI PSI NetworkService aplikacija\PZ3-NetworkService\PZ3-NetworkService\bin\Debug\GalaSoft.MvvmLight.Platform.pdb
+C:\Users\Nebojsa Vasic\Desktop\John Smith PZ3\Nebojsa Vasic\HCI PSI NetworkService aplikacija\PZ3-NetworkService\PZ3-NetworkService\bin\Debug\GalaSoft.MvvmLight.Platform.xml
+C:\Users\Nebojsa Vasic\Desktop\John Smith PZ3\Nebojsa Vasic\HCI PSI NetworkService aplikacija\PZ3-NetworkService\PZ3-NetworkService\obj\Debug\PZ3-NetworkService.csproj.AssemblyReference.cache
+C:\Users\Nebojsa Vasic\Desktop\John Smith PZ3\Nebojsa Vasic\HCI PSI NetworkService aplikacija\PZ3-NetworkService\PZ3-NetworkService\obj\Debug\View\MainWindow.g.cs
+C:\Users\Nebojsa Vasic\Desktop\John Smith PZ3\Nebojsa Vasic\HCI PSI NetworkService aplikacija\PZ3-NetworkService\PZ3-NetworkService\obj\Debug\View\Tab1.g.cs
+C:\Users\Nebojsa Vasic\Desktop\John Smith PZ3\Nebojsa Vasic\HCI PSI NetworkService aplikacija\PZ3-NetworkService\PZ3-NetworkService\obj\Debug\View\Tab2.g.cs
+C:\Users\Nebojsa Vasic\Desktop\John Smith PZ3\Nebojsa Vasic\HCI PSI NetworkService aplikacija\PZ3-NetworkService\PZ3-NetworkService\obj\Debug\View\Tab3.g.cs
+C:\Users\Nebojsa Vasic\Desktop\John Smith PZ3\Nebojsa Vasic\HCI PSI NetworkService aplikacija\PZ3-NetworkService\PZ3-NetworkService\obj\Debug\App.g.cs
+C:\Users\Nebojsa Vasic\Desktop\John Smith PZ3\Nebojsa Vasic\HCI PSI NetworkService aplikacija\PZ3-NetworkService\PZ3-NetworkService\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Nebojsa Vasic\Desktop\John Smith PZ3\Nebojsa Vasic\HCI PSI NetworkService aplikacija\PZ3-NetworkService\PZ3-NetworkService\obj\Debug\PZ3-NetworkService_MarkupCompile.cache
+C:\Users\Nebojsa Vasic\Desktop\John Smith PZ3\Nebojsa Vasic\HCI PSI NetworkService aplikacija\PZ3-NetworkService\PZ3-NetworkService\obj\Debug\PZ3-NetworkService_MarkupCompile.lref
+C:\Users\Nebojsa Vasic\Desktop\John Smith PZ3\Nebojsa Vasic\HCI PSI NetworkService aplikacija\PZ3-NetworkService\PZ3-NetworkService\obj\Debug\View\MainWindow.baml
+C:\Users\Nebojsa Vasic\Desktop\John Smith PZ3\Nebojsa Vasic\HCI PSI NetworkService aplikacija\PZ3-NetworkService\PZ3-NetworkService\obj\Debug\View\Tab1.baml
+C:\Users\Nebojsa Vasic\Desktop\John Smith PZ3\Nebojsa Vasic\HCI PSI NetworkService aplikacija\PZ3-NetworkService\PZ3-NetworkService\obj\Debug\View\Tab2.baml
+C:\Users\Nebojsa Vasic\Desktop\John Smith PZ3\Nebojsa Vasic\HCI PSI NetworkService aplikacija\PZ3-NetworkService\PZ3-NetworkService\obj\Debug\View\Tab3.baml
+C:\Users\Nebojsa Vasic\Desktop\John Smith PZ3\Nebojsa Vasic\HCI PSI NetworkService aplikacija\PZ3-NetworkService\PZ3-NetworkService\obj\Debug\PZ3-NetworkService.g.resources
+C:\Users\Nebojsa Vasic\Desktop\John Smith PZ3\Nebojsa Vasic\HCI PSI NetworkService aplikacija\PZ3-NetworkService\PZ3-NetworkService\obj\Debug\PZ3_NetworkService.Properties.Resources.resources
+C:\Users\Nebojsa Vasic\Desktop\John Smith PZ3\Nebojsa Vasic\HCI PSI NetworkService aplikacija\PZ3-NetworkService\PZ3-NetworkService\obj\Debug\PZ3-NetworkService.csproj.GenerateResource.cache
+C:\Users\Nebojsa Vasic\Desktop\John Smith PZ3\Nebojsa Vasic\HCI PSI NetworkService aplikacija\PZ3-NetworkService\PZ3-NetworkService\obj\Debug\PZ3-NetworkService.csproj.CoreCompileInputs.cache
+C:\Users\Nebojsa Vasic\Desktop\John Smith PZ3\Nebojsa Vasic\HCI PSI NetworkService aplikacija\PZ3-NetworkService\PZ3-NetworkService\obj\Debug\PZ3-NetworkService.csproj.CopyComplete
+C:\Users\Nebojsa Vasic\Desktop\John Smith PZ3\Nebojsa Vasic\HCI PSI NetworkService aplikacija\PZ3-NetworkService\PZ3-NetworkService\obj\Debug\PZ3-NetworkService.exe
+C:\Users\Nebojsa Vasic\Desktop\John Smith PZ3\Nebojsa Vasic\HCI PSI NetworkService aplikacija\PZ3-NetworkService\PZ3-NetworkService\obj\Debug\PZ3-NetworkService.pdb
+C:\Users\Nebojsa Vasic\Desktop\John Smith - Metering Simulator\Nebojsa Vasic\HCI PSI NetworkService aplikacija\PZ3-NetworkService\PZ3-NetworkService\bin\Debug\PZ3-NetworkService.exe.config
+C:\Users\Nebojsa Vasic\Desktop\John Smith - Metering Simulator\Nebojsa Vasic\HCI PSI NetworkService aplikacija\PZ3-NetworkService\PZ3-NetworkService\bin\Debug\PZ3-NetworkService.exe
+C:\Users\Nebojsa Vasic\Desktop\John Smith - Metering Simulator\Nebojsa Vasic\HCI PSI NetworkService aplikacija\PZ3-NetworkService\PZ3-NetworkService\bin\Debug\PZ3-NetworkService.pdb
+C:\Users\Nebojsa Vasic\Desktop\John Smith - Metering Simulator\Nebojsa Vasic\HCI PSI NetworkService aplikacija\PZ3-NetworkService\PZ3-NetworkService\bin\Debug\CommonServiceLocator.dll
+C:\Users\Nebojsa Vasic\Desktop\John Smith - Metering Simulator\Nebojsa Vasic\HCI PSI NetworkService aplikacija\PZ3-NetworkService\PZ3-NetworkService\bin\Debug\GalaSoft.MvvmLight.dll
+C:\Users\Nebojsa Vasic\Desktop\John Smith - Metering Simulator\Nebojsa Vasic\HCI PSI NetworkService aplikacija\PZ3-NetworkService\PZ3-NetworkService\bin\Debug\GalaSoft.MvvmLight.Extras.dll
+C:\Users\Nebojsa Vasic\Desktop\John Smith - Metering Simulator\Nebojsa Vasic\HCI PSI NetworkService aplikacija\PZ3-NetworkService\PZ3-NetworkService\bin\Debug\GalaSoft.MvvmLight.Platform.dll
+C:\Users\Nebojsa Vasic\Desktop\John Smith - Metering Simulator\Nebojsa Vasic\HCI PSI NetworkService aplikacija\PZ3-NetworkService\PZ3-NetworkService\bin\Debug\System.Windows.Interactivity.dll
+C:\Users\Nebojsa Vasic\Desktop\John Smith - Metering Simulator\Nebojsa Vasic\HCI PSI NetworkService aplikacija\PZ3-NetworkService\PZ3-NetworkService\bin\Debug\GalaSoft.MvvmLight.pdb
+C:\Users\Nebojsa Vasic\Desktop\John Smith - Metering Simulator\Nebojsa Vasic\HCI PSI NetworkService aplikacija\PZ3-NetworkService\PZ3-NetworkService\bin\Debug\GalaSoft.MvvmLight.xml
+C:\Users\Nebojsa Vasic\Desktop\John Smith - Metering Simulator\Nebojsa Vasic\HCI PSI NetworkService aplikacija\PZ3-NetworkService\PZ3-NetworkService\bin\Debug\GalaSoft.MvvmLight.Extras.pdb
+C:\Users\Nebojsa Vasic\Desktop\John Smith - Metering Simulator\Nebojsa Vasic\HCI PSI NetworkService aplikacija\PZ3-NetworkService\PZ3-NetworkService\bin\Debug\GalaSoft.MvvmLight.Extras.xml
+C:\Users\Nebojsa Vasic\Desktop\John Smith - Metering Simulator\Nebojsa Vasic\HCI PSI NetworkService aplikacija\PZ3-NetworkService\PZ3-NetworkService\bin\Debug\GalaSoft.MvvmLight.Platform.pdb
+C:\Users\Nebojsa Vasic\Desktop\John Smith - Metering Simulator\Nebojsa Vasic\HCI PSI NetworkService aplikacija\PZ3-NetworkService\PZ3-NetworkService\bin\Debug\GalaSoft.MvvmLight.Platform.xml
+C:\Users\Nebojsa Vasic\Desktop\John Smith - Metering Simulator\Nebojsa Vasic\HCI PSI NetworkService aplikacija\PZ3-NetworkService\PZ3-NetworkService\obj\Debug\PZ3-NetworkService.csproj.AssemblyReference.cache
+C:\Users\Nebojsa Vasic\Desktop\John Smith - Metering Simulator\Nebojsa Vasic\HCI PSI NetworkService aplikacija\PZ3-NetworkService\PZ3-NetworkService\obj\Debug\View\MainWindow.g.cs
+C:\Users\Nebojsa Vasic\Desktop\John Smith - Metering Simulator\Nebojsa Vasic\HCI PSI NetworkService aplikacija\PZ3-NetworkService\PZ3-NetworkService\obj\Debug\View\Tab1.g.cs
+C:\Users\Nebojsa Vasic\Desktop\John Smith - Metering Simulator\Nebojsa Vasic\HCI PSI NetworkService aplikacija\PZ3-NetworkService\PZ3-NetworkService\obj\Debug\View\Tab2.g.cs
+C:\Users\Nebojsa Vasic\Desktop\John Smith - Metering Simulator\Nebojsa Vasic\HCI PSI NetworkService aplikacija\PZ3-NetworkService\PZ3-NetworkService\obj\Debug\View\Tab3.g.cs
+C:\Users\Nebojsa Vasic\Desktop\John Smith - Metering Simulator\Nebojsa Vasic\HCI PSI NetworkService aplikacija\PZ3-NetworkService\PZ3-NetworkService\obj\Debug\App.g.cs
+C:\Users\Nebojsa Vasic\Desktop\John Smith - Metering Simulator\Nebojsa Vasic\HCI PSI NetworkService aplikacija\PZ3-NetworkService\PZ3-NetworkService\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Nebojsa Vasic\Desktop\John Smith - Metering Simulator\Nebojsa Vasic\HCI PSI NetworkService aplikacija\PZ3-NetworkService\PZ3-NetworkService\obj\Debug\PZ3-NetworkService_MarkupCompile.cache
+C:\Users\Nebojsa Vasic\Desktop\John Smith - Metering Simulator\Nebojsa Vasic\HCI PSI NetworkService aplikacija\PZ3-NetworkService\PZ3-NetworkService\obj\Debug\PZ3-NetworkService_MarkupCompile.lref
+C:\Users\Nebojsa Vasic\Desktop\John Smith - Metering Simulator\Nebojsa Vasic\HCI PSI NetworkService aplikacija\PZ3-NetworkService\PZ3-NetworkService\obj\Debug\View\MainWindow.baml
+C:\Users\Nebojsa Vasic\Desktop\John Smith - Metering Simulator\Nebojsa Vasic\HCI PSI NetworkService aplikacija\PZ3-NetworkService\PZ3-NetworkService\obj\Debug\View\Tab1.baml
+C:\Users\Nebojsa Vasic\Desktop\John Smith - Metering Simulator\Nebojsa Vasic\HCI PSI NetworkService aplikacija\PZ3-NetworkService\PZ3-NetworkService\obj\Debug\View\Tab2.baml
+C:\Users\Nebojsa Vasic\Desktop\John Smith - Metering Simulator\Nebojsa Vasic\HCI PSI NetworkService aplikacija\PZ3-NetworkService\PZ3-NetworkService\obj\Debug\View\Tab3.baml
+C:\Users\Nebojsa Vasic\Desktop\John Smith - Metering Simulator\Nebojsa Vasic\HCI PSI NetworkService aplikacija\PZ3-NetworkService\PZ3-NetworkService\obj\Debug\PZ3-NetworkService.g.resources
+C:\Users\Nebojsa Vasic\Desktop\John Smith - Metering Simulator\Nebojsa Vasic\HCI PSI NetworkService aplikacija\PZ3-NetworkService\PZ3-NetworkService\obj\Debug\PZ3_NetworkService.Properties.Resources.resources
+C:\Users\Nebojsa Vasic\Desktop\John Smith - Metering Simulator\Nebojsa Vasic\HCI PSI NetworkService aplikacija\PZ3-NetworkService\PZ3-NetworkService\obj\Debug\PZ3-NetworkService.csproj.GenerateResource.cache
+C:\Users\Nebojsa Vasic\Desktop\John Smith - Metering Simulator\Nebojsa Vasic\HCI PSI NetworkService aplikacija\PZ3-NetworkService\PZ3-NetworkService\obj\Debug\PZ3-NetworkService.csproj.CoreCompileInputs.cache
+C:\Users\Nebojsa Vasic\Desktop\John Smith - Metering Simulator\Nebojsa Vasic\HCI PSI NetworkService aplikacija\PZ3-NetworkService\PZ3-NetworkService\obj\Debug\PZ3-NetworkService.csproj.CopyComplete
+C:\Users\Nebojsa Vasic\Desktop\John Smith - Metering Simulator\Nebojsa Vasic\HCI PSI NetworkService aplikacija\PZ3-NetworkService\PZ3-NetworkService\obj\Debug\PZ3-NetworkService.exe
+C:\Users\Nebojsa Vasic\Desktop\John Smith - Metering Simulator\Nebojsa Vasic\HCI PSI NetworkService aplikacija\PZ3-NetworkService\PZ3-NetworkService\obj\Debug\PZ3-NetworkService.pdb
